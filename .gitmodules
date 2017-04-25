@@ -1,0 +1,8 @@
+[submodule "kaggle-mnist"]
+	path = kaggle-mnist
+	url = git@github.com:norman-thomas/kaggle-mnist.git
+	branch = master
+[submodule "kaggle-planet-amazon"]
+	path = kaggle-planet-amazon
+	url = git@github.com:norman-thomas/kaggle-planet-amazon.git
+	branch = master
