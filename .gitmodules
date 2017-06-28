@@ -6,3 +6,6 @@
 	path = kaggle-planet-amazon
 	url = git@github.com:norman-thomas/kaggle-planet-amazon.git
 	branch = master
+[submodule "kaggle-passenger-screening-tsa"]
+	path = kaggle-passenger-screening-tsa
+	url = git@github.com:norman-thomas/kaggle-passenger-screening-tsa.git
