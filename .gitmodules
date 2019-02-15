@@ -9,3 +9,6 @@
 [submodule "kaggle-passenger-screening-tsa"]
 	path = kaggle-passenger-screening-tsa
 	url = git@github.com:norman-thomas/kaggle-passenger-screening-tsa.git
+[submodule "kaggle-statoil-iceberg"]
+	path = kaggle-statoil-iceberg
+	url = ../kaggle-statoil-iceberg.git
